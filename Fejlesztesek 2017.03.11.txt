@@ -1,0 +1,18 @@
+Finished changes:
+0, Correction of Bolygo parameters to private or protected and use methods to achieve and modify
+0, Lehet, hogy nem is kellene Double lista, hanem egybõl mehetne bele a bolygo listába
+1, That would be good if the planets'names will be shown in output file. So I need to read them from input file.
+2, "Szimulacio vege." is in wrong place. Enter needed
+3, The initial values should be separated from results like "Vegso ertekek:"
+4, Holdak extends Bolygo with a new attribute bolygoname
+
+Goals:
+1, Hold can only be created if its bolygo is created before.
+
+2, How can I check if a specific object is present? 
+
+3, Could be shown which objects collided with eachother.
+
+4, Can I control how to write in a txt file to be ordered like writing to console
+
+5, Vector interface

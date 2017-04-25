@@ -1,0 +1,10 @@
+Kimenetek: 
+Az összes test aktuális helyzete (pozíció és sebesség) a szimuláció végén, és annak jelzése, hogy a szimuláció ütközés vagy idõtúllépés miatt állt-e le.
+
+kezdõSebesség : Vektor // ahány test van
+kezdetiPozíció : Vektor
+ütközés : boolean ha nem volt akkor idõtúllépés miatt!!
+
+public String toString(){
+	return "Bolygo[Neve=" + neve + ",sugar=" + sugar + ",tomeg=" + tomeg + ",kezdoPozicio=" + kezdoPozicio + ",kezdoSebesseg=" + kezdoSebesseg +"]"; 
+}

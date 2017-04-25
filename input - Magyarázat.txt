@@ -1,0 +1,20 @@
+Minden mennyiség az SI szabvány szerinti alapmennyiség.
+
+dt_idõintervallum 1.0	secundum 
+szimulációhossza 100.0	secundum
+
+A Nap adatai a (0,0,0)-ban:
+Bolygó vagy hold neve sugár[méter] tömeg[kg] kezdetiPozíció[méter] kezdõSebesség[méter/secundum]
+695800000.0 1.989E30 0.0 0.0 0.0 0.0 0.0 0.0 
+A Föld adatai:
+sugár tömeg kezdetiPozíció kezdõSebesség
+6372797.0 5.972E24 149500000000.0 0.0 0.0 0.0 29783.0 0.0
+A Föld holdjának adatai:
+Hold 1737000.0 7.342E22 149500000000.0 384400000.0 0.0 1022.0 0.0 0.0 Fold
+A Merkúr adatai:
+sugár tömeg kezdetiPozíció kezdõSebesség
+2439700.0 328.5E21 0.0 -57910000000.0 0.0 47360.0 0.0 0.0
+
+input0.txt nem történik ütközés
+input1.txt példa arra,hogy az inicializáláskor ütközés történt! a Hold és a Föld között
+input2.txt nagy szimulációs idõ, 1 000 000 sec = 277 óra = 11 nap // ez is gyorsan lefutott, növelni még?

@@ -1,0 +1,58 @@
+
+A kezdeti ertekek:
+[
+Bolygo=Nap 
+ sugar=6.958E8
+ tomeg=1.989E30
+ Pozicio=[x=0.0, y=0.0, z=0.0]
+ Sebesseg=[x=0.0, y=0.0, z=0.0]
+, 
+Bolygo=Fold 
+ sugar=6372797.0
+ tomeg=5.972E24
+ Pozicio=[x=1.495E11, y=0.0, z=0.0]
+ Sebesseg=[x=0.0, y=29783.0, z=0.0]
+, 
+Hold=Hold 
+ Bolygoja Fold
+ sugar=1737000.0
+ tomeg=7.342E22
+ Pozicio=[x=1.495E11, y=3.844E8, z=0.0]
+ Sebesseg=[x=1022.0, y=0.0, z=0.0], 
+Bolygo=Merkur 
+ sugar=2439700.0
+ tomeg=3.285E23
+ Pozicio=[x=0.0, y=-5.791E10, z=0.0]
+ Sebesseg=[x=47360.0, y=0.0, z=0.0]
+]
+Nem tortent utkozes a inicializalaskor.
+
+A vegso ertekek:
+[
+Bolygo=Nap 
+ sugar=6.958E8
+ tomeg=1.989E30
+ Pozicio=[x=9862.163139742994, y=-2505.3355423012326, z=0.0]
+ Sebesseg=[x=0.02048364197767944, y=-0.004082859408005464, z=0.0]
+, 
+Bolygo=Fold 
+ sugar=6372797.0
+ tomeg=5.972E24
+ Pozicio=[x=1.4656541981933337E11, y=2.958620375368482E10, z=0.0]
+ Sebesseg=[x=-5873.51595713456, y=29193.19120172222, z=0.0]
+, 
+Hold=Hold 
+ Bolygoja Fold
+ sugar=1737000.0
+ tomeg=7.342E22
+ Pozicio=[x=1.4551881284446234E11, y=4.0535393050580436E8, z=0.0]
+ Sebesseg=[x=-7063.793094364379, y=17.838419089228065, z=0.0], 
+Bolygo=Merkur 
+ sugar=2439700.0
+ tomeg=3.285E23
+ Pozicio=[x=4.2114827040874E10, y=-3.916229899599534E10, z=0.0]
+ Sebesseg=[x=31921.13342889494, y=35439.37841432562, z=0.0]
+]
+Szimulacio vege.
+
+Nem tortent utkozes a szimulacio vegen.
