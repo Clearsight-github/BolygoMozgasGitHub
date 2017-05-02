@@ -1,9 +1,9 @@
 import java.io.*;
 import java.util.*;
-import Bolygo.*;
-import Hold.*;
-import Vektor.*;
-import Szimulacio.*;
+import bolygo.*;
+import hold.*;
+import vektor.*;
+import szimulacio.*;
 
 /**
  * Bolygomozgas szimulalasa.

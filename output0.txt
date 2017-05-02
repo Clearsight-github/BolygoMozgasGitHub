@@ -1,16 +1,18 @@
 
-A kezdeti ertekek: 
+A kezdeti ertekek:
 [
 Bolygo=Nap 
  sugar=6.958E8
  tomeg=1.989E30
  Pozicio=[x=0.0, y=0.0, z=0.0]
- Sebesseg=[x=0.0, y=0.0, z=0.0], 
+ Sebesseg=[x=0.0, y=0.0, z=0.0]
+, 
 Bolygo=Fold 
  sugar=6372797.0
  tomeg=5.972E24
  Pozicio=[x=1.495E11, y=0.0, z=0.0]
- Sebesseg=[x=0.0, y=29783.0, z=0.0], 
+ Sebesseg=[x=0.0, y=29783.0, z=0.0]
+, 
 Hold=Hold 
  Bolygoja Fold
  sugar=1737000.0
@@ -21,19 +23,24 @@ Bolygo=Merkur
  sugar=2439700.0
  tomeg=3.285E23
  Pozicio=[x=0.0, y=-5.791E10, z=0.0]
- Sebesseg=[x=47360.0, y=0.0, z=0.0]]
-Nem utkozes tortent az inicializalaskor.
+ Sebesseg=[x=47360.0, y=0.0, z=0.0]
+]
+Nem tortent utkozes a inicializalaskor.
+
+A vegso ertekek:
 [
 Bolygo=Nap 
  sugar=6.958E8
  tomeg=1.989E30
  Pozicio=[x=1.0920050093990858E-4, y=-3.954210490797129E-5, z=0.0]
- Sebesseg=[x=1.9854743388617855E-6, y=-7.18940257358255E-7, z=0.0], 
+ Sebesseg=[x=1.9854743388617855E-6, y=-7.18940257358255E-7, z=0.0]
+, 
 Bolygo=Fold 
  sugar=6372797.0
  tomeg=5.972E24
  Pozicio=[x=1.494999999640722E11, y=3276130.2013624124, z=0.0]
- Sebesseg=[x=-0.6532297240236369, y=29783.00366916499, z=0.0], 
+ Sebesseg=[x=-0.6532297240236369, y=29783.00366916499, z=0.0]
+, 
 Hold=Hold 
  Bolygoja Fold
  sugar=1737000.0
@@ -44,7 +51,8 @@ Bolygo=Merkur
  sugar=2439700.0
  tomeg=3.285E23
  Pozicio=[x=5209599.993857829, y=-5.790999976055589E10, z=0.0]
- Sebesseg=[x=47359.9998235895, y=4.353529834423693, z=0.0]]
+ Sebesseg=[x=47359.9998235895, y=4.353529834423693, z=0.0]
+]
 Szimulacio vege.
 
-Nem tortent utkozes a szimulacio kozben.
+Nem tortent utkozes a szimulacio vegen.
