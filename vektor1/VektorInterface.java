@@ -1,4 +1,4 @@
-package Vektor;
+package vektor1;
 public interface VektorInterface {
 	static final double PI = 3.1415;
 	

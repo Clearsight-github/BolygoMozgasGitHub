@@ -1,4 +1,4 @@
-package Vektor;
+package vektor1;
 public class Vektor { //implements VektorInterface kiveve a static method miatt
 	
 	protected double x;

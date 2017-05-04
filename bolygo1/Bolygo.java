@@ -1,5 +1,5 @@
-package Bolygo;
-import Vektor.*;
+package bolygo1;
+import vektor1.*;
 
 public class Bolygo {
 	

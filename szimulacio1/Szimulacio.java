@@ -1,4 +1,4 @@
-package Szimulacio;
+package szimulacio1;
 public class Szimulacio {
     private double dt;
 	private double szimulacioHossza;

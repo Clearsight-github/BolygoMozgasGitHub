@@ -1,7 +1,7 @@
-package Hold;
+package hold1;
 
-import Bolygo.*;
-import Vektor.Vektor;
+import bolygo1.*;
+import vektor1.Vektor;
 
 public class Hold extends Bolygo {
 
